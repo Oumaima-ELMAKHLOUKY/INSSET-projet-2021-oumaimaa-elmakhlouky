@@ -1,0 +1,1 @@
+<h1>Projet blog symfony</h1>
